@@ -103,6 +103,3 @@ Números sorteados e apostadores escolhidos:
 3. Verifique os resultados no terminal e no arquivo **`resultado_apostas.txt`**.
 
 ---
-
-Caso precise de mais alguma explicação ou ajuste, só avisar! 😊
-
